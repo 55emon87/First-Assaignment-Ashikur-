@@ -27,3 +27,42 @@ display: flex;
     display: inline-block;
     margin: 10px;
 }
+.color{
+  color: orange;  
+}
+
+.my-mission{
+display: flex;
+
+}
+.pix{
+    width: 50%;
+  
+}
+.emon{
+    width: 40%;
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(243, 130, 130);
+    border-radius: 10px;
+}
+.ashik{
+    width: 40%;
+    padding: 50px;
+    margin: 50px;
+    background-color:rgb(151, 151, 185);
+    border-radius: 10px;
+}
+.hasib{
+    width: 40%;
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(216, 173, 173);
+    border-radius: 10px;
+}
+.lol{
+    text-align: center;
+}
+.type{
+    border-left: 10px solid orangered;
+}
