@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color: orange;
+}
+.Focus{
+display: flex;
+
+}
+.container img{
+    width: 500px;
+}
+.container{
+    width: 80%;
+    padding: 5%;
+}
+.anchor{
+    text-decoration: none;
+     border-radius: 15px;  
+    padding: 10px;
+    background-color: orangered;
+    display: inline-block;
+    margin: 10px;
+}
