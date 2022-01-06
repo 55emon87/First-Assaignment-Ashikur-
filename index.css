@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 .text-color{
-    color: orange;
+    color: rgb(194, 40, 13);
 }
 .Focus{
 display: flex;
@@ -29,7 +29,7 @@ display: flex;
     margin: 10px;
 }
 .color{
-  color: orange;  
+  color: rgb(194, 40, 13);;  
 }
 
 .my-mission{
@@ -57,7 +57,7 @@ margin-bottom: 10%;
     border-radius: 10px;
 }
 .hasib{
-    width: 50%;
+    width: 40%;
     padding: 50px;
     margin: 50px;
     background-color: papayawhip;
