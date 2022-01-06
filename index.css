@@ -129,3 +129,12 @@ footer{
 color: blanchedalmond;
 padding-top: 20px;
 }
+.light img {  
+    width: 60%;
+}
+.last{
+    padding-left: 30%;
+}
+.fruit{
+    padding-left: 10%;
+}
