@@ -18,6 +18,7 @@ display: flex;
 .container{
     width: 80%;
     padding: 5%;
+    
 }
 .anchor{
     text-decoration: none;
@@ -45,28 +46,29 @@ margin-bottom: 10%;
     width: 40%;
     padding: 50px;
     margin: 50px;
-    background-color: rgb(243, 130, 130);
+   background-color: #e8f3f3;
     border-radius: 10px;
 }
 .ashik{
     width: 40%;
     padding: 50px;
     margin: 50px;
-    background-color:rgb(151, 151, 185);
+    background-color:#f3eaee;
     border-radius: 10px;
 }
 .hasib{
     width: 40%;
     padding: 50px;
     margin: 50px;
-    background-color: rgb(216, 173, 173);
+    background-color: papayawhip;
     border-radius: 10px;
 }
 .lol{
     text-align: center;
 }
 .type{
-    border-left: 10px solid orangered;
+    border-left: 5px solid orangered;
+    border-radius: 5px;
 }
 .Develop{
     display: flex;
@@ -119,11 +121,12 @@ width: 80%;
 text-align:center;
 color: blanchedalmond;
 padding-bottom: 30px;
-
+font-family: 'Roboto Slab', serif;
 }
 footer{
     background: black;
     padding-bottom: 20px;
+    font-family: 'Vujahday Script', cursive;
 }
 .fb{
 color: blanchedalmond;
